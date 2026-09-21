@@ -1,0 +1,11 @@
+# Local Python environment
+.venv/
+
+# Environment variables and secrets
+.env
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Downloaded raw data
+data/raw/
