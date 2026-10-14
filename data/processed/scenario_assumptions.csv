@@ -1,0 +1,4 @@
+scenario,efficiency_pct,renewable_share,premium_usd_per_mwh,flex_peak_pct,battery_mw,battery_mwh,capex_usd
+Grid Baseline,0.0,0.0,0.0,0.0,0,0,0
+Efficiency + Clean Procurement,0.08,0.8,6.0,0.0,0,0,20000000
+Efficiency + Flexible Load + Battery,0.05,0.4,6.0,0.05,20,80,45000000

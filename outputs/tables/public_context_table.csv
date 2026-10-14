@@ -1,0 +1,8 @@
+metric,value,unit,source,year,data_type
+County population,"432,998",people,U.S. Census Bureau ACS 5-year estimates,2024,Public
+Median household income,"181,765",2024 USD per household,U.S. Census Bureau ACS 5-year estimates,2024,Public
+Population below poverty rate,4.2,percent,U.S. Census Bureau ACS 5-year estimates,2024,Public
+Overall natural-hazard risk,78.1 (Relatively Low),FEMA relative score and rating,FEMA National Risk Index v1.20,2025,Public
+Regional electricity CO2 output rate,593.419,lb CO2 per MWh,"EPA eGRID, subregion SRVC",2023,Public
+Maximum facility demand,100,MW,Project design assumption,N/A,Illustrative
+Heat-wave risk,91.1 (Relatively Moderate),FEMA relative score and rating,FEMA National Risk Index v1.20,2025,Public

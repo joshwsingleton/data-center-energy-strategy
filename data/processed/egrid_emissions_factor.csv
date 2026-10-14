@@ -1,0 +1,2 @@
+project_zip,project_location,source_year,egrid_subregion,egrid_subregion_name,co2_lb_per_mwh,source_file,source_worksheet,source_field,source_url,access_date,data_status
+20166,"Sterling/Dulles area, Loudoun County, Virginia",2023,SRVC,SERC Virginia/Carolina,593.419,egrid2023_data_rev2.xlsx,SRL23,SRCO2RTA,https://www.epa.gov/egrid/detailed-data,2026-10-13,EPA eGRID public data
