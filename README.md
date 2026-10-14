@@ -92,6 +92,7 @@ A real project would require utility coordination, parcel-level climate-risk ana
 
 ## Running the notebooks
 
+The processed inputs needed for Notebooks 2–4 are included in the repository. To rerun Notebook 1 from the beginning, download the EPA eGRID, Census ACS, and FEMA National Risk Index source files referenced in that notebook and place them in `data/raw/` using the filenames expected by the code.
 Create and activate a Python environment, then install the required packages:
 
 ```bash
